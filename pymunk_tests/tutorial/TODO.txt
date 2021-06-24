@@ -1,0 +1,3 @@
+get an overview of all joints
+implement the jump n run style without graphics
+(create another folder for that)
