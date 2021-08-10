@@ -1,0 +1,28 @@
+goal:
+- Jump n Run
+- if possible: somewhat automatize level creation
+- skins etc: supply some basic skins for some worlds
+	- future dream: provide new skins based on "customer" demand
+- enemies:
+	- graphics: see skins
+	- behavior: somewhat automatic (biological)
+		still: not too complex (would be too difficult for player)
+- landscape:
+	- low-res grid
+- physics:
+	- pymunk
+
+- 
+
+DONE:
+- skins for Kricki, enemies
+	
+
+TODO:
+- js or py?
+	py --> needs flask server (for playing online)
+	py --> pyglet, pygame, ...?
+- finish the goals
+- details:
+	scrolling: world coords/game coord
+	... etc etc
